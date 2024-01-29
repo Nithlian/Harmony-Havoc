@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ladder
+  - Player
+  - Enemy
+  - ChaosGrids
+  - Coins
+  - Projectile
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2568298375
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MidGround
+    uniqueID: 2285348441
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3384741725
+    locked: 0
+  - name: SuperForeGround
+    uniqueID: 2576682495
+    locked: 0

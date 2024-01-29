@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced97fb727e1e9141a777b6bddfe8e62, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  orderUpgradeValue: 25
+  playerBaseDamage: 2
+  knowledgeBank:
+  - {fileID: 11400000, guid: 87a8dd8f50806b7438786f5bb5eedd43, type: 2}
+  - {fileID: 11400000, guid: 4c31d22e5839bb84d8753d62889b1b04, type: 2}
+  - {fileID: 11400000, guid: 9529c8fd1f892d04998a5c5ab176075a, type: 2}
+  - {fileID: 11400000, guid: c53b854d66317474ab48c40e3747d57e, type: 2}
+  - {fileID: 11400000, guid: 88556c138875f7047a6a2b2e1d16144a, type: 2}
+  knowledgeImgBank:
+  - {fileID: 21300000, guid: 6e7a503b69e456647980d8369e786894, type: 3}
+  - {fileID: 21300000, guid: c3f85852f6d72b444976df19e4599a15, type: 3}
+  - {fileID: 21300000, guid: bb656f9720ed1844dace55e4fad5f2ed, type: 3}
+  - {fileID: 21300000, guid: 9e0afdbfaa7d3a540aff6b76879351ed, type: 3}
+  - {fileID: 21300000, guid: 9d03ca63aae3d9c45885e3c12605938b, type: 3}
+  - {fileID: 21300000, guid: 9039251667627064092153c68884c4bd, type: 3}
+  lastSafeSpotMap: 
+  knowledgeSlots: 4
+  actualOrder: 200
+  maxOrder: 200
+  actualChaos: 50
+  maxChaos: 50
+  gold: 0
+  totalGold: 0
+  orderFragments: 0
+  weaponUpgrade: 0
+  armorUpgrade: 0
+  totalKills: 0
+  totalHeals: 0
